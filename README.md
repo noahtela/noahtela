@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @noahtela
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+我是一个正在探索编程世界的快乐小猿，同时也是一名软件工程专业的大学生。在这个充满二进制的世界里，我乐此不疲地挖掘智慧的矿石，探索未知的秘密。对我来说，编程不仅是一门技术，更是我的热爱和生活方式。
 
-<!---
-noahtela/noahtela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+关于我-
+🔭 我曾为找出系统崩溃的 bug 而熬夜，也为实现一个功能而兴奋得跳起舞来。
+🌱 我对各种新奇有趣的事物充满好奇，对技术有着无尽的热情。
+📝 我喜欢将自己的想法和学习的知识通过博客分享，希望能和大家一起进步、一起成长。
+💬 在我的博客里，你会看到我对编程语言的理解、对软件工程的见解、对技术趋势的预测，还有学习过程中的点点滴滴。
+🤝 我相信，只要我们一起努力，就能在这个充满机会的世界中找到属于我们自己的位置。
+博客分享
+我喜欢写博客记录我的学习历程和编程心得，希望这些内容能够帮助到和我一样热爱编程的小伙伴们。
+💻 如果你也对编程感兴趣，欢迎一起交流讨论！
